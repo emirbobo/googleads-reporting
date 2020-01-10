@@ -1,3 +1,4 @@
+##首先需要在google cloud project 建立了项目，并且加入adsense api权限
 ##此项目只需配置参数即可运行获取报告
 ###启动依赖
     1、首先运行install_run.py对依赖包进行安装
